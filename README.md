@@ -109,3 +109,6 @@ Oyster Mushrooms (148 g)
 and more…
 
 We also highly recommend beginning research trials that include supplementation such as whey protein and creatine for the essential amino acids consumption; solubility points in weightless environments should be tested. With a hand of extensive research, a collaboration between space agencies, and fresh and innovative ideas such as ours, space travel is getting closer to safer and more sustainable ways.
+
+# Tags
+#Organic #newtechnologies #nutrition #harvesting #crop #bodycare #spacecrops #microgravity #ecosphere #hydrogel #chickpeas #chickpeasfollowers #cryogenia #cryoprotectant #innovative #groundbreaking #healthyastronauts #fungi #specialshrooms #microorganisms #biochemistry #biotechnology #materials #bonesdensity #wheyprotein #spacecraft #missiontomars #TecnologicodeMonterrey #borregos
