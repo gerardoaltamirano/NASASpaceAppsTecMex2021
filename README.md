@@ -1,5 +1,9 @@
 # NASASpaceAppsTecMex2021
 # NASA's Perpetual Crop Garden
+
+Canvas link: https://www.canva.com/design/DAErzoz1Tgk/kBwT7pEPm_kY-F57wWJoPw/view?utm_content=DAErzoz1Tgk&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent
+
+Also take a look at our rendering and modelling (Room Folder)
 For several years, researchers alongside great space agencies have been looking forward to finding the most suitable way to harvest in long-distance traveling due to the fact that for now, it seems impossible to restock their basic needs. This project intends to set a proposal for a sustainable cropping system for our astronauts to ensure their daily nutrients considering the negative impact weightlessness may cause to their body systems.
 
 This could be visualized as an artificial portable ecosystem in which conditions such as watering, CO2 production, airflow, space-radiation protection, temperature, light absorbance, and humidity are thoroughly controlled with the help of biological engineered tricks.
@@ -30,7 +34,7 @@ Last and most important fact: What can we grow that is beneficial to our crew?
 
 The nutrition for humans differ while being in space, their daily calorie intake must be 2800 to 3700 kcal (American Heart Association, 2018), prioritizing diverse macros and micros such as the protein intake so the muscle mass won’t decrease radically, or the calcium and vitamin D so bones don't lose density. 
 
-The astronauts need to be careful with what they consume according to Smith et al., (2013), for instance, their sodium intake tends to be very elevated due to the way food is preserved, so it has been reformulated to reduce its intake by about 3 g/day. We used NASA’s SB Mission-design to know the length of the voyage our astronauts may face. On the other hand, there's Vitamin D, a critical nutrient, on account of the lack of exposure to direct sunlight given that the spacecraft is shielded to block UV light, therefore to acquire it they must consume it on a daily basis in an amount of 800 IU per day. In addition, there's the ​vitamin K, a vitamin that has been proposed to avoid/decrease bone loss given that studies showed decreased vitamin K status when losing bone mass. As well the ISS menu must contain 20 ± 6 mg/day of iron 2 g more than the current U.S. dietary reference intake dictates.
+The astronauts need to be careful with what they consume according to Smith et al., (2013), for instance, their sodium intake tends to be very elevated due to the way food is preserved, so it has been reformulated to reduce its intake by about 3 g/day. We used NASA’s SB Mission-design to know the length of the voyage our astronauts may face. On the other hand, there's Vitamin D, a critical nutrient, on account of the lack of exposure to direct sunlight given that the spacecraft is shielded to block UV light, therefore to acquire it they must consume it on a daily basis in an amount of 800 IU per day. In addition, there's the vitamin K, a vitamin that has been proposed to avoid/decrease bone loss given that studies showed decreased vitamin K status when losing bone mass. As well the ISS menu must contain 20 ± 6 mg/day of iron 2 g more than the current U.S. dietary reference intake dictates.
 
 As said, nutrients such as iron, calcium, potassium B vitamins, magnesium, selenium, choline, vitamin C and fiber, provide a lot of benefits in general for bones (bone structure and strength), metabolism (function as bulking agents), mental health (plays a role in mood, muscle control & learning and memory), heart health (decrease the risk of heart disease), and blood pressure (prevent high blood pressure) (Ware, 2019), thus, the chosen food is meant to provide all these nutrients so the astronauts health won’t be harmed.
 
